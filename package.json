@@ -1,22 +1,22 @@
 {
-  "name": "t30-exercicio-calculdora",
+  "name": "certo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    d"start": "node server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabricadeprogramador/t30-exercico-calculadora.git"
+    "url": "git+https://github.com/Abulei/certo"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fabricadeprogramador/t30-exercico-calculadora/issues"
+    "url": "https://github.com/Abulei/certo/issues"
   },
-  "homepage": "https://github.com/fabricadeprogramador/t30-exercico-calculadora#readme",
+  "homepage": "https://github.com/Abulei/certo#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
